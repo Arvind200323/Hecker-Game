@@ -1,3 +1,3 @@
 # Hecker-game
- Run Becker.CPP to play the game
+ Run hecker.CPP to play the game
 
